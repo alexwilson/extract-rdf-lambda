@@ -1,0 +1,12 @@
+{
+  "name": "extract-rdf-lambda",
+  "author": "Alex Wilson <a@ax.gy>",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-fetch": "^2.1.2",
+    "web-auto-extractor": "^1.0.17"
+  },
+  "devDependencies": {
+    "serverless-offline": "^3.23.0"
+  }
+}
